@@ -1,3 +1,4 @@
-## Matthew Camarena
-# Education
-* California State University
+# Matthew Camarena
+
+## Education
+* Student at California State University
