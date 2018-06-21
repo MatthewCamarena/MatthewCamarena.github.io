@@ -1,5 +1,6 @@
 # Matthew Camarena
 
+![image](https://user-images.githubusercontent.com/23159301/41739957-8948c8ce-754b-11e8-8815-518ce5f9c080.png)
 ## Bio
 Hi, I'm a current Computer Science student attending California State, Fullerton.
 I love to hike, and bike through mountainous trails.
